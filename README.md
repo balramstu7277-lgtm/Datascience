@@ -1,1 +1,3 @@
-numpy notes 
+complete numpy 
+complete pandas 
+project 
